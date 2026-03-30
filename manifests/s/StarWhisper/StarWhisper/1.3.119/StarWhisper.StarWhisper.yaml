@@ -1,0 +1,6 @@
+# Created using wingetcreate
+PackageIdentifier: StarWhisper.StarWhisper
+PackageVersion: 1.3.119
+DefaultLocale: en-US
+ManifestType: version
+ManifestVersion: 1.6.0

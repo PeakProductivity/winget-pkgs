@@ -1,0 +1,23 @@
+PackageIdentifier: StarWhisper.StarWhisper
+PackageVersion: 1.3.119
+PackageLocale: en-US
+Publisher: StarWhisper
+PublisherUrl: https://starwhisper.ai
+PackageName: StarWhisper
+PackageUrl: https://starwhisper.ai
+License: Proprietary
+ShortDescription: Offline AI voice-to-text for Windows using OpenAI Whisper
+Description: StarWhisper is a privacy-first voice transcription app for Windows that runs entirely on your computer. Powered by whisper.cpp (OpenAI Whisper), it supports 99+ languages, GPU acceleration, and works completely offline. Press Ctrl+Space to dictate into any app. Free tier available (500 words/day), Pro unlocks unlimited transcription.
+Tags:
+  - speech-to-text
+  - voice-dictation
+  - transcription
+  - whisper
+  - ai
+  - offline
+  - privacy
+  - dictation
+  - voice-typing
+ReleaseNotesUrl: https://starwhisper.ai
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
